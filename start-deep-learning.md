@@ -12,7 +12,7 @@ aliases:
 - /guides/ai/start-deep-learning
 ---
 
-![](media/coursera-free-access/start-deep-learning-roadmap.png)
+![](media/start-deep-learning/start-deep-learning-roadmap.png)
 
 ## مقدِّمة
 
