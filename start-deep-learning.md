@@ -223,10 +223,5 @@ flowchart TB;
 
 <br/>
 
-- محاضرات جامعة ستانفورد حول معالجة اللغة الطبيعية باستخدام التعلم العميق CS224n:
-  - [Stanford CS224N: Natural Language Processing with Deep Learning \| Winter 2021 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
-
-<br/>
-
 - قناة يوتيوب تقدم فيديوهات توضيحية حول مفاهيم التعلم العميق وتقنيات المحولات الحديثة مثل Transformers وGPT من الخبير المعروف أندريه كارباتي:
   - [Andrej Karpathy - YouTube](https://www.youtube.com/@AndrejKarpathy)
