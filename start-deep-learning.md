@@ -134,6 +134,9 @@ flowchart TB;
 ثم الانتقال للدورة:
 - [Machine Learning \| Coursera](https://www.coursera.org/specializations/machine-learning-introduction)
 
+>دورة بديلة: 
+> [Machine Learning  \|  Google for Developers](https://developers.google.com/machine-learning/crash-course)
+
 > [!WARNING] **للمتعجِّلين**
 >فكرة عامة عن تعلُّم الآلة وكيفية تقييم الأداء يمكن متابعتها من خلال المساق الأول من الدورة المقترحة:
 > - [Supervised Machine Learning: Regression and Classification \| Coursera](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
@@ -213,3 +216,17 @@ flowchart TB;
 - **بناء مسارات تعلم الآلة (ML pipelines).**
 
 - **الاطلاع على الخدمات السحابية** المقدمة من الشركات الشهيرة خاصة بما يتعلق بخدمات تعلم الآلة، مثل SageMaker من AWS، أو الخدمات الأخرى التي تقدمها Google Cloud أو Microsoft Azure أو غيرهم من الشركات الشهيرة.
+
+## مصادر إضافية
+- دورة تدريبية حول التعلم العميق بشكل عملي باستخدام PyTorch وFastAI، وهي مبنية على كتاب ذو تقييم عالٍ ومسجلة في جامعة كوينزلاند:
+  - [Practical Deep Learning for Coders - Practical Deep Learning](https://course.fast.ai/)
+
+<br/>
+
+- محاضرات جامعة ستانفورد حول معالجة اللغة الطبيعية باستخدام التعلم العميق CS224n:
+  - [Stanford CS224N: Natural Language Processing with Deep Learning \| Winter 2021 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+
+<br/>
+
+- قناة يوتيوب تقدم فيديوهات توضيحية حول مفاهيم التعلم العميق وتقنيات المحولات الحديثة مثل Transformers وGPT من الخبير المعروف أندريه كارباتي:
+  - [Andrej Karpathy - YouTube](https://www.youtube.com/@AndrejKarpathy)
