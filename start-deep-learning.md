@@ -12,7 +12,55 @@ aliases:
 - /guides/ai/start-deep-learning
 ---
 
-![](media/start-deep-learning/start-deep-learning-roadmap.png)
+<style>
+  .mermaid .cluster rect {
+    fill: transparent !important;
+    stroke: none !important;
+}
+</style>
+
+```mermaid
+---
+config:
+  theme: redux
+  themeVariables:
+    primaryColor: "#00ff00"
+    fontFamily: "ArefRuqaa"
+    fontSize: 18px
+---
+flowchart TB;
+    basics(الأساسيات)
+    basics_items@{ shape: braces, label: "الرياضيات\nالبرمجة" }
+    ml_basics(أساسيات تعلم الآلة)
+    deep_learning(مفاهيم التعلم العميق)
+    practical_projects(المشاريع العملية)
+    dl_specialization(التوسع والتخصص)
+    computer_vision(الرؤية الحاسوبية)
+    nlp(معالجة اللغة الطبيعية)
+
+    subgraph basics_subgraph[ ]
+    direction RL
+    basics_items ~~~ basics;
+    end
+
+    basics_subgraph --> ml_subgraph;
+
+    subgraph ml_subgraph[ ]
+    direction RL
+    ml_basics --> deep_learning;
+    deep_learning --> practical_projects;
+    practical_projects --> deep_learning;
+    end
+
+    ml_subgraph --> specialization_subgraph;
+
+    subgraph specialization_subgraph [ ]
+    direction TB
+    dl_specialization --> computer_vision;
+    dl_specialization --> nlp;
+    end
+
+```
 
 ## مقدِّمة
 
